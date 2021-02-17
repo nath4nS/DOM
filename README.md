@@ -1,2 +1,2 @@
 # DOM
-Curso para entender um os conceitos do DOM(Document Object Model).
+Curso para entender um os conceitos do DOM (Document Object Model).
